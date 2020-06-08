@@ -1,4 +1,4 @@
-# potential-barnacle
+# .wig to df in R Studio
 R shiny browser graphics from deseq2 .csv results and .wig read data
 
 A tool for RNA sequence analyssis
